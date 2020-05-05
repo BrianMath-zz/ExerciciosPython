@@ -1,4 +1,4 @@
 # Exercicios - Python
  Exercícios de Python do Curso em Vídeo
 
- Divididos em 3 mundos (atéagora só 1)
+ Divididos em 3 mundos (até agora só 1)
